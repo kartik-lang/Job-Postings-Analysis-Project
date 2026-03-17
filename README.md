@@ -1,2 +1,1 @@
-Used SQL (Mul$-JOINS, CTEs) to aggregate skill demand and salary data, crea$ng an
-Opportunity Score to guide EdTech curriculum planning.
+Used SQL (Multi-JOINS, CTEs) to aggregate skill demand and salary data, creating an Opportunity Score to guide EdTech curriculum planning.
